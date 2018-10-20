@@ -9,8 +9,8 @@ public class HelloWorld {
         Hashtable<String, String> employees = new Hashtable<>();
         employees.put("One", "Yoshi");
         employees.put("Two", "Yobastono");
-        employees.put("Four", "Margherita");
-        employees.put("Four", "Oliver");
+        employees.put("Four", "Sc");
+        employees.put("Four", "sonia");
 
         //hashing
 
