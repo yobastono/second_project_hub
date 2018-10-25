@@ -7,8 +7,4 @@ public class CheckPersonEligibleForSelectiveService implements CheckPerson {
                 p.getAge() >= 18 &&
                 p.getAge() <= 25;
     }
-
-    public int testMe(){
-
-    }
 }
